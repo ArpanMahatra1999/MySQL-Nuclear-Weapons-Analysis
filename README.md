@@ -16,5 +16,3 @@ Databases used:
 3. Countries and Continents: https://github.com/dbouquin/IS_608/blob/master/NanosatDB_munging/Countries-Continents.csv
 4. Country Borders: https://github.com/geodatasource/country-borders/blob/master/GEODATASOURCE-COUNTRY-BORDERS.CSV
 5. HDI and GDP per capita: https://ourworldindata.org/grapher/human-development-index-vs-gdp-per-capita
-
-Repository: https://github.com/ArpanMahatra1999/MySQL-Nuclear-Weapons-Analysis
