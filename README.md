@@ -2,6 +2,8 @@
 
 MySQL queries related to nuclear weapons analysis using nuclear weapons, population, country borders and HDI and GDP per capita datasets.
 
+Contributors: Arpan Mahatra, Chirag Vohra, Siddesh Panikkar
+
 Tools used:
 1. MySQL workbench
 
